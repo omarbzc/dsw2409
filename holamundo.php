@@ -8,5 +8,6 @@ echo '<!DOCTYPE html>
     <h1>¡Hola Mundo desde PHP!</h1>
 </body>
 </html>';
+echo '<h1>Actualizacion</h1>';
 
 ?>
